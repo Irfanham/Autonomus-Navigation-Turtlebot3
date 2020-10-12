@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kiddie/turtle_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.banditEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.pycodestyleEnabled": true
+}
